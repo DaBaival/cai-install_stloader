@@ -1,15 +1,30 @@
 # 🚀 Cai-Install STLoader (Cai Install XP)
 
-很感谢还能有人在这里，不过，XP已经于2026年2月停更，与Web ui一起。
-我目前正在跟一位作者共同制作Cai install-fluent，他是web ui的fork项目（尽管那位作者并没有使用fork），我认为这是个不错的主意，于是跟他共同更新。
+本软件及cai install全系已完全停更，详细信息：
 
-cai install目前正统续作应该是cai install reborn,但我认为他比不上fluent,不久之后可能会停更。
+Cai install Official全系列于2026年6月停更
 
-你可以怎么做？：
+人话：我不做软件了
 
-你可以转而使用fluent,作为原生UI，它更加流畅易用，我要将更新更多功能：https://github.com/zhouchentao666/Fluent-Install
+全系已换MIT协议，即将软件还是显示GPL3.0
 
-你也可以fork本项目,我很希望有人可以二改cai install,如果有人可以继承这个项目,我会很开心。只要你可以遵守GPL3.0
+停更通知：
+
+从2023年，到现在，我们一起走过了3个春夏秋冬，但，落日终归海，入库圈的环境已经腻了，这个圈子固然是乌烟瘴气的，倒卖，恶俗，各家互斗，一次次的，对我来说，入库圈已不是我乐趣所在了，而是一种负担，折磨。从一次倒卖，被背刺，辱骂，都是对我的伤害。很多次，都是强行忍受，对我而言没有益处。
+
+而且，清单下载器做久了也就那样，没什么新鲜感了，cai install走到现在，仅凭热爱，在25-26两年间，cai install xp，cai install gui，cai install web ui等，一共陆续更新了70多个版本，平均每5天更新一次，但现在这份热爱已消失了。
+
+我已经想停更好久了，感觉继续下去没什么意思了，cai install这个工具能让大家喜欢，我也很开心，在入库圈有一定名誉，也是大家一齐的努力结果。
+
+另一方面，步入高中，我也不想再把注意力放在这里。
+
+Cai install全系（cai install xp，cai install GUI，cai install web ui，cai install reborn）将以MIT开源，欢迎大家二改！继承cai install的ip精神！
+
+仙人指路：以后，如果大家还想使用免费工具，可以使用SteamToolbox(菜玩社区下载），keysteam(bilibili下载），fluent install(cai install fork二改项目）这些都是我认为不错的工具。
+
+这次停更，也许是分离，但是我认为cai install这个IP会留在大家心里。
+
+2023-2026 —PVZCXW
 
 
 ![Version](https://img.shields.io/badge/Version-1.64p1-blue)
