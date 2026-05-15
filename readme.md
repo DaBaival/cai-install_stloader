@@ -207,6 +207,6 @@ python frontend_cli.py
 我们非常欢迎用户提供使用反馈与建议！获取最新公告、版本更新或寻求人工帮助，请加入我们的社区：
 
 *   **官方交流 QQ 群**: `993782526`
-*   **关注作者 B 站**:[菜Games-pvzcxw](https://space.bilibili.com)
+*   **关注作者 B 站**:[菜Games-pvzcxw](https://space.bilibili.com/49307545)
 *   如果遇到 Bug，也欢迎在 GitHub 仓库提交[Issue](https://github.com/pvzcxw/cai-install_stloader/issues) 或 Pull Request。
 ```
